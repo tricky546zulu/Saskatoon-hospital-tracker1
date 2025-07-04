@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-07-04T20:16:05.142Z",
+  "lastUpdated": "7/4/2025, 2:16:05 PM",
+  "hospitals": {
+    "RUH": {
+      "admittedNoBeds": 19,
+      "activeConsults": 24,
+      "totalED": 49
+    },
+    "SPH": {
+      "admittedNoBeds": 8,
+      "activeConsults": 26,
+      "totalED": 35
+    },
+    "JPCH": {
+      "admittedNoBeds": 0,
+      "activeConsults": 2,
+      "totalED": 2
+    }
+  },
+  "systemTotals": {
+    "totalAdmittedNoBeds": 27,
+    "totalActiveConsults": 50,
+    "totalEDPatients": 86
+  },
+  "summary": "27 admitted (no beds), 50 consults, 86 total ED patients",
+  "dataSource": "Test data - GitHub Action working",
+  "note": "This is test data. Real PDF parsing will be added next."
+}
